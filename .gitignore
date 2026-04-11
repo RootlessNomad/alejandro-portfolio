@@ -1,0 +1,56 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# FactorIA scaffolding (internal — not part of the published portfolio)
+CLAUDE.md
+START_PROJECT_PROMPT.md
+.claude/
+backend/
+frontend/
+deployment/
+mcps/
+skills/
+tests/
+
+# Internal engineering docs (local only)
+planning/
+design/
+implementation/
+docs/

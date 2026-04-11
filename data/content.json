@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "name": "Alejandro Avila Gómez",
+    "email": "avila97gomez@gmail.com",
+    "phone": "+34 649 75 60 07",
+    "linkedin": "https://www.linkedin.com/in/alejandro-avila-gomez",
+    "github": "https://github.com/RootlessNomad"
+  },
+  "nav": {
+    "about": { "es": "Sobre mí", "en": "About me" },
+    "skills": { "es": "Habilidades", "en": "Skills" },
+    "experience": { "es": "Experiencia", "en": "Experience" },
+    "education": { "es": "Formación", "en": "Education" },
+    "projects": { "es": "Proyectos", "en": "Projects" },
+    "contact": { "es": "Contacto", "en": "Contact" }
+  },
+  "hero": {
+    "badge": { "es": "Disponible para nuevos proyectos", "en": "Available for new projects" },
+    "subtitle": {
+      "es": "Ingeniero Cloud & Telemático especializado en IaC, contenedores y pipelines CI/CD. Construyo infraestructuras escalables, seguras y automatizadas en entornos multi-cloud.",
+      "en": "Cloud & Telecommunications Engineer specialised in IaC, containers and CI/CD pipelines. I build scalable, secure and automated infrastructures in multi-cloud environments."
+    },
+    "cta_projects": { "es": "Ver proyectos", "en": "View projects" },
+    "cta_contact": { "es": "Contactar", "en": "Get in touch" }
+  },
+  "about": {
+    "tag": { "es": "Sobre mí", "en": "About me" },
+    "title": { "es": "¿Quién soy?", "en": "Who am I?" },
+    "description": {
+      "es": "Perfil técnico con enfoque en infraestructura cloud, redes y automatización.",
+      "en": "Technical profile focused on cloud infrastructure, networking and automation."
+    },
+    "paragraphs": [
+      {
+        "es": "Ingeniero Telemático y Cloud Engineer con una misión clara: hacer que los sistemas y procesos sean más simples, rápidos y eficientes para las personas. Con formación en telecomunicaciones y especialización en cloud, he liderado equipos, gestionado infraestructuras críticas y automatizado procesos que han mejorado la eficiencia operativa en más de un 20%.",
+        "en": "Telecommunications and Cloud Engineer with a clear mission: making systems and processes simpler, faster and more efficient for people. With a background in telecoms and a cloud specialisation, I've led teams, managed critical infrastructure and automated processes that improved operational efficiency by over 20%."
+      },
+      {
+        "es": "Lo que me diferencia es que no solo entiendo la infraestructura — entiendo el problema de negocio detrás. Desde orquestar contenedores en multi-cloud hasta crear chatbots que reducen tiempos de soporte, mi enfoque es siempre el mismo: automatizar lo repetitivo para que los equipos se centren en lo que realmente importa. Si buscas a alguien que conecte ingeniería con impacto real, hablemos.",
+        "en": "What sets me apart is that I don't just understand infrastructure — I understand the business problem behind it. From orchestrating containers in multi-cloud to building chatbots that cut support times, my approach is always the same: automate the repetitive so teams can focus on what truly matters. If you're looking for someone who connects engineering with real impact, let's talk."
+      }
+    ],
+    "languages": [
+      { "flag": "\ud83c\uddea\ud83c\uddf8", "label": { "es": "Castellano — Nativo", "en": "Spanish — Native" } },
+      { "flag": "\ud83c\uddec\ud83c\udde7", "label": { "es": "Inglés — Avanzado", "en": "English — Advanced" } }
+    ],
+    "stats": [
+      { "value": "4+", "label": { "es": "Años de experiencia", "en": "Years of experience" } },
+      { "value": "3", "label": { "es": "Clouds dominados", "en": "Clouds mastered" } },
+      { "value": "20%", "label": { "es": "Mejora eficiencia", "en": "Efficiency boost" } }
+    ]
+  },
+  "skills": {
+    "tag": { "es": "Habilidades", "en": "Skills" },
+    "title_pre": { "es": "Stack ", "en": "Tech " },
+    "title_grad": { "es": "tecnológico", "en": "stack" },
+    "description": {
+      "es": "Herramientas y tecnologías con las que trabajo en el día a día.",
+      "en": "Tools and technologies I work with on a daily basis."
+    },
+    "categories": [
+      {
+        "icon": "fas fa-cloud",
+        "color": "cyan",
+        "title": { "es": "Cloud & IaC", "en": "Cloud & IaC" },
+        "tags": ["AWS", "GCP", "Azure", "Terraform", "CloudFormation", "Ansible"]
+      },
+      {
+        "icon": "fas fa-robot",
+        "color": "orange",
+        "title": { "es": "Automatización & IA", "en": "Automation & AI" },
+        "tags": ["n8n", "Claude Code", "APIs", "OpenAI", "Make"]
+      },
+      {
+        "icon": "fas fa-cubes",
+        "color": "blue",
+        "title": { "es": "Contenedores & Orquestación", "en": "Containers & Orchestration" },
+        "tags": ["Docker", "Kubernetes", "Docker Compose"]
+      },
+      {
+        "icon": "fas fa-infinity",
+        "color": "purple",
+        "title": { "es": "DevOps & CI/CD", "en": "DevOps & CI/CD" },
+        "tags": ["GitHub Actions", "GitOps", "Pipelines", "Git"]
+      },
+      {
+        "icon": "fas fa-network-wired",
+        "color": "green",
+        "title": { "es": "Telecomunicaciones & Redes", "en": "Networking & Telecoms" },
+        "tags": ["TCP/IP", "DNS", "VPN", "VLAN", "Routing"]
+      },
+      {
+        "icon": "fas fa-server",
+        "color": "cyan",
+        "title": { "es": "Sistemas IT", "en": "IT Systems" },
+        "tags": ["Linux", "Bash", "Monitoring", "Troubleshooting"]
+      }
+    ]
+  },
+  "experience": {
+    "tag": { "es": "Experiencia", "en": "Experience" },
+    "title_pre": { "es": "Trayectoria ", "en": "Professional " },
+    "title_grad": { "es": "profesional", "en": "journey" },
+    "items": [
+      {
+        "company": "Inta Crop",
+        "date": "Oct 2025 — May 2026",
+        "role": { "es": "Ingeniero Telemático", "en": "Telecommunications Engineer" },
+        "bullets": [
+          { "es": "Implementación de chatbot de soporte técnico reduciendo tiempo de soporte en más de un 20%.", "en": "Implementation of technical support chatbot reducing support time by over 20%." },
+          { "es": "Automatización de sistemas internos aumentando la productividad en un 10%.", "en": "Automation of internal systems increasing productivity by 10%." },
+          { "es": "Gestión, control y mantenimiento de equipos.", "en": "Management, control and maintenance of equipment." }
+        ]
+      },
+      {
+        "company": "ISGF – Informes Comerciales",
+        "date": "2021 — 2025",
+        "role": { "es": "Coordinador Workforce", "en": "Workforce Coordinator" },
+        "bullets": [
+          { "es": "Gestión de bases de datos y resolución de incidencias técnicas para áreas críticas.", "en": "Database management and technical incident resolution for critical areas." },
+          { "es": "Coordinación y supervisión de equipos multidisciplinares en entornos corporativos.", "en": "Coordination and supervision of multidisciplinary teams in corporate environments." },
+          { "es": "Optimización de recursos y procesos internos con mejoras de eficiencia superiores al 15%.", "en": "Resource and internal process optimisation with efficiency improvements above 15%." },
+          { "es": "Implementación de procesos de reporting que impactaron directamente en la toma de decisiones.", "en": "Implementation of reporting processes that directly impacted decision-making." }
+        ]
+      },
+      {
+        "company": "Sysman Levante, S.L.",
+        "date": "2018",
+        "role": { "es": "Técnico de Sistemas", "en": "Systems Technician" },
+        "bullets": [
+          { "es": "Mantenimiento y actualización de equipos informáticos para entornos empresariales.", "en": "Maintenance and updating of IT equipment for business environments." },
+          { "es": "Soporte técnico a usuarios finales y resolución de incidencias.", "en": "Technical support for end users and incident resolution." },
+          { "es": "Contribución a la reducción del tiempo medio de respuesta en un 20%.", "en": "Contributed to reducing average response time by 20%." }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "tag": { "es": "Formación", "en": "Education" },
+    "title_pre": { "es": "Educación ", "en": "Academic " },
+    "title_grad": { "es": "académica", "en": "education" },
+    "items": [
+      {
+        "year": "2025",
+        "degree": { "es": "Cloud Engineering Specialization", "en": "Cloud Engineering Specialization" },
+        "school": { "es": "Saxion HBO-ICT — Países Bajos", "en": "Saxion HBO-ICT — The Netherlands" },
+        "icon": "fas fa-cloud"
+      },
+      {
+        "year": "2018",
+        "degree": { "es": "Ingeniería Telemática", "en": "Telecommunications Engineering" },
+        "school": { "es": "Universidad Politécnica de Cartagena", "en": "Technical University of Cartagena" },
+        "icon": "fas fa-network-wired"
+      },
+      {
+        "year": "2016",
+        "degree": { "es": "Grado en Sistemas de Telecomunicación e Informáticos", "en": "Degree in Telecommunication & IT Systems" },
+        "school": { "es": "IES Ingeniero de la Cierva", "en": "IES Ingeniero de la Cierva" },
+        "icon": "fas fa-graduation-cap"
+      }
+    ]
+  },
+  "projects": {
+    "tag": { "es": "Proyectos", "en": "Projects" },
+    "title_pre": { "es": "Trabajo ", "en": "Real " },
+    "title_grad": { "es": "real", "en": "work" },
+    "description": {
+      "es": "Proyectos desarrollados para clientes y entornos profesionales.",
+      "en": "Projects developed for clients and professional environments."
+    },
+    "items": [
+      {
+        "icon": "fas fa-globe",
+        "color": "cyan",
+        "title": { "es": "Equilibrio Salud Integrativa", "en": "Equilibrio Salud Integrativa" },
+        "description": {
+          "es": "Diseño y desarrollo completo de sitio web corporativo para centro de salud integrativa. Arquitectura orientada a la captación de clientes, con diseño moderno, responsive y optimizado para SEO.",
+          "en": "Full design and development of corporate website for integrative health centre. Client acquisition-oriented architecture, with modern, responsive and SEO-optimised design."
+        },
+        "tags": ["HTML", "CSS", "JavaScript", "SEO"],
+        "link": { "url": "https://equilibriosaludintegrativa.com", "label": "Web", "icon": "fas fa-external-link-alt" }
+      },
+      {
+        "icon": "fas fa-robot",
+        "color": "purple",
+        "title": { "es": "Chatbot de Soporte — Inta Crop", "en": "Support Chatbot — Inta Crop" },
+        "description": {
+          "es": "Desarrollo e implementación de chatbot inteligente de soporte técnico para Inta Crop. Automatización de respuestas a consultas frecuentes, reduciendo carga del equipo de soporte y mejorando tiempos de respuesta.",
+          "en": "Development and implementation of intelligent technical support chatbot for Inta Crop. Automation of FAQ responses, reducing support team workload and improving response times."
+        },
+        "tags": ["IA", "Automatización", "Soporte", "API"],
+        "link": null
+      },
+      {
+        "icon": "fas fa-cloud-upload-alt",
+        "color": "blue",
+        "title": { "es": "Migración Cloud — Nedap", "en": "Cloud Migration — Nedap" },
+        "description": {
+          "es": "Proyecto de migración cloud para Nedap, incluyendo diseño de arquitectura, planificación de la migración y despliegue de infraestructura en entornos cloud con enfoque en alta disponibilidad y seguridad.",
+          "en": "Cloud migration project for Nedap, including architecture design, migration planning and infrastructure deployment in cloud environments with a focus on high availability and security."
+        },
+        "tags": ["Cloud", "Migración", "IaC", "DevOps"],
+        "link": { "url": "https://github.com/RootlessNomad/Nedap-Project", "label": "GitHub", "icon": "fab fa-github" }
+      }
+    ]
+  },
+  "contact": {
+    "tag": { "es": "Contacto", "en": "Contact" },
+    "title": { "es": "¿Hablamos?", "en": "Let's talk?" },
+    "description": {
+      "es": "Abierto a proyectos, colaboraciones y nuevas oportunidades.",
+      "en": "Open to projects, collaborations and new opportunities."
+    },
+    "heading": {
+      "es": "Pongámonos en contacto",
+      "en": "Get in touch"
+    },
+    "text": {
+      "es": "Si tienes un proyecto en mente, una oportunidad interesante o simplemente quieres hablar sobre cloud e infraestructura, escríbeme.",
+      "en": "If you have a project in mind, an interesting opportunity or just want to talk about cloud and infrastructure, reach out."
+    },
+    "form": {
+      "name": { "es": "Nombre", "en": "Name" },
+      "name_ph": { "es": "Tu nombre", "en": "Your name" },
+      "email": { "es": "Email", "en": "Email" },
+      "email_ph": { "es": "tu@email.com", "en": "you@email.com" },
+      "subject": { "es": "Asunto", "en": "Subject" },
+      "subject_ph": { "es": "¿De qué quieres hablar?", "en": "What do you want to talk about?" },
+      "message": { "es": "Mensaje", "en": "Message" },
+      "message_ph": { "es": "Cuéntame tu proyecto o idea...", "en": "Tell me about your project or idea..." },
+      "submit": { "es": "Enviar mensaje", "en": "Send message" },
+      "success": { "es": "¡Mensaje enviado!", "en": "Message sent!" }
+    }
+  },
+  "footer": {
+    "text": { "es": "Diseñado y desarrollado con", "en": "Designed and developed with" }
+  }
+}
